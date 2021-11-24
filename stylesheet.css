@@ -21,14 +21,13 @@ a:active {
     text-decoration: underline;
 }
 
-body {background-color:rgb(227,222,241);}
-       {color: blue;}
 
 * {
   box-sizing: border-box;
 }
 
 body {
+   background-color:rgb(227,222,241); 
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
 }
