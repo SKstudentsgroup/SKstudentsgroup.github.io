@@ -1,5 +1,4 @@
-body {background-color:rgb(227,222,241);}
-       {color: blue;}
+
 
 a:link {
     color: red;
@@ -21,6 +20,9 @@ a:active {
     background-color: transparent;
     text-decoration: underline;
 }
+
+body {background-color:rgb(227,222,241);}
+       {color: blue;}
 
 * {
   box-sizing: border-box;
